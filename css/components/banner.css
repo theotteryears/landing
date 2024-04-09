@@ -1,0 +1,25 @@
+.banner {
+  padding: 180px 20px;
+  /* width: 80%; */
+  /* border: 1px solid yellow; */
+  color: white;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+}
+
+.banner h1 {
+  font-size: 48px;
+  color: rgb(247, 210, 175);
+}
+
+.container {
+  /* border: 1px solid blue; */
+  /* width: 60%; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+}
